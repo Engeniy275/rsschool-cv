@@ -17,7 +17,7 @@ Im new to frontend, so this topic will stay blank until the end of this course. 
 ******
 ## Education:
 Full secondary education.
-******
+*****
 ## Languages:
 
 * **English C1** (Advanced)
